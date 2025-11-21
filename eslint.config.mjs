@@ -81,6 +81,8 @@ export default [
       '.stylelintrc.js',
       '.template-lintrc.js',
       'ember-cli-build.js',
+      'tailwind.config.js', // <--- AGREGA ESTA LÍNEA (con la coma)
+      'postcss.config.js', // <--- AGREGA ESTA LÍNEA (con la coma)
     ],
     plugins: {
       n,
